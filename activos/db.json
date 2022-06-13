@@ -1,0 +1,144 @@
+{
+  "santos": [
+    {
+      "id": 1,
+      "nombre": "Seiya",
+      "constelacion": "Pegaso",
+      "armadura": "Bronce"
+    },
+    {
+      "id": 2,
+      "nombre": "Shiryu",
+      "constelacion": "Dragon",
+      "armadura": "Bronce"
+    },
+    {
+      "id": 3,
+      "nombre": "Hyoga",
+      "constelacion": "Cisne",
+      "armadura": "Bronce"
+    },
+    {
+      "id": 4,
+      "nombre": "Ikki",
+      "constelacion": "Fénix",
+      "armadura": "Bronce"
+    },
+    {
+      "id": 5,
+      "nombre": "Shun",
+      "constelacion": "Andrómeda",
+      "armadura": "Bronce"
+    },
+    {
+      "id": 6,
+      "nombre": "Muu",
+      "constelacion": "Aries",
+      "armadura": "Oro"
+    },
+    {
+      "id": 7,
+      "nombre": "Aldebarán",
+      "constelacion": "Tauro",
+      "armadura": "Oro"
+    },
+    {
+      "id": 8,
+      "nombre": "Saga Kanon",
+      "constelacion": "Géminis",
+      "armadura": "Oro"
+    },
+    {
+      "nombre": "Mascara de Muerte",
+      "constelacion": "Cáncer",
+      "armadura": "Oro",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "nombre": "Aioria",
+      "constelacion": "Leo",
+      "armadura": "Oro"
+    },
+    {
+      "id": 11,
+      "nombre": "Shaka",
+      "constelacion": "Virgo",
+      "armadura": "Oro"
+    },
+    {
+      "id": 12,
+      "nombre": "Dohko",
+      "constelacion": "Libra",
+      "armadura": "Oro"
+    },
+    {
+      "id": 13,
+      "nombre": "Milo",
+      "constelacion": "Escorpión",
+      "armadura": "Oro"
+    },
+    {
+      "id": 14,
+      "nombre": "Aioria",
+      "constelacion": "Sagitario",
+      "armadura": "Oro"
+    },
+    {
+      "id": 15,
+      "nombre": "Camus",
+      "constelacion": "Acuario",
+      "armadura": "Oro"
+    },
+    {
+      "id": 16,
+      "nombre": "Shura",
+      "constelacion": "Capricornio",
+      "armadura": "Oro"
+    },
+    {
+      "id": 17,
+      "nombre": "Aphrodita",
+      "constelacion": "Piscis",
+      "armadura": "Oro"
+    },
+    {
+      "nombre": "Misty",
+      "constelacion": "Salamandra",
+      "armadura": "Plata",
+      "id": 18
+    }
+  ],
+  "dioses": [
+    {
+      "id": 1,
+      "nombre": "Atenea",
+      "rige": "Tierra"
+    },
+    {
+      "id": 2,
+      "nombre": "Poseidon",
+      "rige": "Mar"
+    },
+    {
+      "id": 3,
+      "nombre": "Hades",
+      "rige": "Inframundo"
+    },
+    {
+      "id": 4,
+      "nombre": "Zeus",
+      "rige": "Cielo"
+    },
+    {
+      "id": 5,
+      "nombre": "Odin",
+      "rige": "Hielos"
+    },
+    {
+      "id": 6,
+      "nombre": "Áres",
+      "rige": "Guerra"
+    }
+  ]
+}

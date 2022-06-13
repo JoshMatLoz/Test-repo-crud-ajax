@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="activos/favicon.ico">
+  <title>CRUD API REST AXIOS</title>
+</head>
+
+<body>
+  <h1>CRUD API REST AXIOS</h1>
+  <section class="crud">
+    <article>
+      <h2 class="crud-titulo">Agregar Caballero</h2>
+      <form class="crud-formulario">
+        <input type="text" name="nombre" placeholder="Nombre del Santo"><br>
+        <input type="text" name="constelacion" placeholder="Constelacion que representa"><br>
+        <input type="text" name="armadura" placeholder="Armadura"><br>
+        <input type="submit" value="Enviar">
+        <input type="hidden" name="id">
+      </form>
+    </article>
+    <article>
+      <h2>Ver Caballero</h2>
+      <table class="crud-tabla">
+        <thead>
+          <tr>
+            <th>NOMBRE</th>
+            <th>CONSTELACIÓN</th>
+            <th>ARMADURA</th>
+            <th>ACCIONES</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </article>
+  </section>
+  <template id="crud-plantilla">
+    <tr>
+      <td class="nombre"></td>
+      <td class="constelacion"></td>
+      <td class="armadura"></td>
+      <td>
+        <button class="editar">Editar</button>
+        <button class="borrar">Eliminar</button>
+      </td>
+    </tr>
+  </template>
+  <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+  <script src="/JavaScript/axios.js" as="script"></script>
+</body>
+
+</html>
